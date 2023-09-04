@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /mbsd
+Allow: /mbsd/image
+Allow: /mbsd/music/
+Disallow: /test
+Allow: /test/hoge
+Allow: /test/huga/age/manji/
+Disallow: /ban/$
